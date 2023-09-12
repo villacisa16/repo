@@ -38,7 +38,27 @@ que “file status lifecycle” se encuentra el fichero?
 
 1.4 – Intenta subir los ficheros al repositorio remoto mediante al comando git push ¿Se te ocurre que está pasando? (si no lo sabes aún no te preocupes)
 
+**Hago push**
+![❌ERROR❌](./img/img8.png)
 
-**Hago push de los cambios (hechos anteriormente en el paso 1.3)**
-![❌ERROR❌](./img/img6.png)
-![❌ERROR❌](./img/img7.png)
+**Con el push se han subido los cambios al repositorio remoto**
+
+**Para poder hacer el push correctamente debe estar creado un repositorio remoto y estar referenciado.**
+
+□ 1.5 – Ejecuta el comando git remote –v e investiga porque no nos aparece nada.
+
+**A mi me aparece la información del repositorio remoto al que está referenciado. Si no me hubiese aparecido nada sería porque no tendría ningún repositorio remoto referencciado y habría que crearlo y referenciarlo**
+
+![❌ERROR❌](./img/img9.png)
+
+□ 1.6 – Crea un repositorio remoto llamado repo01, asócialo a tu repositorio local.
+
+**Realizado en tarea 1.2**
+
+□ 1.7 – Vuelve a ejecutar el comando git remote –v nuevamente y explica el porque ahora si que aparece
+
+**Aparece información porque ya hay un repositorio remoto referenciado**
+
+□ 1.8 – Sube los cambios que hemos subido al snapshot local (commit) hacía al repositorio remoto.
+
+![❌ERROR❌](./img/img8.png)
