@@ -1,7 +1,6 @@
 <h1>#repo01</h1>
 □ 1.1 - 1.1 – Crea un directorio llamado repo01 en local (desde tu máquina) e ejecuta el comando
-pertinente para que dicho directorio para que se transforme el repositorio en local ¿Cómo podemos
-identificar que el repositorio se ha inicializado?
+pertinente para que dicho directorio para que se transforme el repositorio en local ¿Cómo podemos identificar que el repositorio se ha inicializado?
 
 **Creo el directorio:**
 ![❌ERROR❌](./img/img1.png)
@@ -20,23 +19,25 @@ crear un repositorio, etc. Puedes añadir fotos o lo que creas conveniente
 **Creo el archivo .md**
 ![❌ERROR❌](./img/img3.png)
 
+**Creo un repositorio en GitHub:**
+![❌ERROR❌](./img/img4.png)
+
+**Hago los siguientes pasos para referenciar mi repositorio local al de la nube:**
+![❌ERROR❌](./img/img5.png)
+
 □ 1.3 - Añade el fichero que acabamos de añadir al repositorio al staging area, visualiza el estado del
 repositorio (con git status) y haz un snapshot (commit) del fichero hacía nuestro repositorio local. ¿En
 que “file status lifecycle” se encuentra el fichero?
 
+**El archivo antes de ser subido se encuentra en estado modificado**
 ![❌ERROR❌](./img/gitstatus.png)
 
 **Una vez modificado este archivo md y creada la carpeta img para adjuntarle las imágenes, procedemos a hacer 'git add' y 'git  commit':**
 
 ![❌ERROR❌](./img/img6.png)
 
-□ 1.4 - Crea un repositorio remoto llamado repo01, asócialo a tu repositorio local y
-sube los cambios al repositorio remoto
-**Creo un repositoorio en GitHub:**
-![❌ERROR❌](./img/img4.png)
+1.4 – Intenta subir los ficheros al repositorio remoto mediante al comando git push ¿Se te ocurre que está pasando? (si no lo sabes aún no te preocupes)
 
-**Hago los siguientes pasos para referenciar mi repositorio local al de la nube:**
-![❌ERROR❌](./img/img5.png)
 
 **Hago push de los cambios (hechos anteriormente en el paso 1.3)**
 ![❌ERROR❌](./img/img6.png)
