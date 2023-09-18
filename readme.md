@@ -61,4 +61,9 @@ que “file status lifecycle” se encuentra el fichero?
 
 □ 1.8 – Sube los cambios que hemos subido al snapshot local (commit) hacía al repositorio remoto.
 
-![❌ERROR❌](./img/img8.png)
+![❌ERROR❌](./img/ultCommit.png)
+
+□ 1.9 – Ves al repositorio remoto (en este caso GitHub) y comprueba que se haya realizado el commit correctamente y observa que pasa en el repositorio ¿Observas algo peculiar?
+
+**Los cambios se han subido correctamente con los cambios y el mensaje del commit.**
+![❌ERROR❌](./img/ultCommit2.png)
